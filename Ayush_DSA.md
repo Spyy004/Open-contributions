@@ -1,3 +1,5 @@
+# Hi There.
+## I am Ayush and i opted for DSA intern at DevIncept.
 # Data Structure Topics
 * Stacks
 * Queues
@@ -8,7 +10,10 @@
 # Algorithms Topics
 * Graph Algorithms
 * Kadane's Algo
+* DFS
+* BFS
 * Knuth Morris Pratt
 * Dynamic Programming
 
-# Flutter Development.
+# Development.
+* Flutter
